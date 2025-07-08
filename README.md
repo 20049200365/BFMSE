@@ -16,8 +16,7 @@ The D_BFMSE_Construct.java and Staic_BFMSE_Test.java are used to test the BFMSE 
 
 We run the D_BFMSE_Construct.java as an example. The result is as follows.
 
-
-> Task: D_BFMSE_Construct.main()
+  ```C++
 Max Fingerprint:30
 Theoretical FPP rate: 9.313225746154785E-6
 Fingerprint length:30
@@ -29,3 +28,4 @@ Experimental FPP rate: 9.05E-6
 Time: 246.778359ms
 Speed: 40522.19181828663
 Update Speed: 5989.46572767816
+  ```
